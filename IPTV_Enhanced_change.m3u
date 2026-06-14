@@ -27,7 +27,7 @@ http://173.208.212.130:8181/1080p/cctv5p.m3u8
 http://173.208.212.130:8181/1080p/cctv16.m3u8
 #EXTINF:-1 group-title="世界杯" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV-5体育.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-5
 http://173.208.212.130:8181/1080p/cctv5.m3u8
-#EXTINF:-1 group-title="世界杯" tvg-name="Fussball TV 4K"
+#EXTINF:-1 group-title="世界杯" tvg-name="Fussball TV 4K",Fussball TV 4K
 https://drm.91porn.stream/play/RUfGbXML3FYkAo-H7gD2Tg/index.m3u8
 #EXTINF:-1 group-title="[三网1]咪视界" tvg-name="至臻视界4K" tvg-logo="https://epg.112114.xyz/logo/至臻视界4K.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",至臻视界4K
 http://47.100.209.208:8100/TVOD/3000000001000005308.m3u8?token=8520
