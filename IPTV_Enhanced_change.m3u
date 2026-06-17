@@ -3,7 +3,7 @@
 #EXT-X-APTV-LATENCY: FALSE
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="4K",东方卫视4K
 http://10.223.3.189/PLTV/88888888/224/3221226102/489730698.smil/index.m3u8?fmt=ts2hls&rrsip=10.223.5.36&zoneoffset=480&servicetype=2&icpid=shlt&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7ErUl2pThfZcnAVu1vsK5vJA%7EGBgYt2G4g3mp1H7Khhun9o6Zuj3ZkcZIB_HquE1b4VEarRFWx1w4xcRrXpOi2MxRI2bJNcVCpNQZiqYy2TQFYgBt4on5bTDSw95vyOkgHqI%7EExtInfo24S_eFPZ-q3aI4rQpB83xQ%3A20250510113236%2C120574%2C139.227.17.230%2C20250510113236%2CUmai%3ACHAN%2F6000138%40BESTV.SMG.SMG%2C120574%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C489730698%2CEND&VIP=null
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA.png" group-title="4K",欢笑剧场4K
+#EXTINF:-1 tvg-name="多彩文体4K" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/90/SiTV-%E5%A4%9A%E5%BD%A9%E6%96%87%E4%BD%934K_logo.png/revision/latest/scale-to-width-down/180?cb=20260403073038&path-prefix=vi" group-title="4K",多彩文体4K
 http://10.223.3.189/PLTV/88888888/224/3221226073/466914514.smil/index.m3u8?fmt=ts2hls&rrsip=10.223.5.36&zoneoffset=480&servicetype=2&icpid=shlt&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EotkYKTW34HFqrWEun6C2og%7EGBgYt2G4g3mp1H7Khhun9o6Zuj3ZkcZIB_HquE1b4VEarRFWx1w4xcRrXpOi2MxRI2bJNcVCpNQZiqYy2TQFYgBt4on5bTDSw95vyOkgHqI%7EExtInfo24S_eFPZ-q3aI4rQpB83xQ%3A20250510113236%2C120574%2C139.227.17.230%2C20250510113236%2C20000035000000051319547148091392%2C120574%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C466914514%2CEND&VIP=null
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K",CCTV-4K
 http://10.223.3.189/PLTV/88888888/224/3221226071/466911348.smil/index.m3u8?fmt=ts2hls&rrsip=10.223.5.36&zoneoffset=480&servicetype=2&icpid=shlt&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EpFq4lIQggmKrG-RsGKduvA%7EGBgYt2G4g3mp1H7Khhun9o6Zuj3ZkcZIB_HquE1b4VEarRFWx1w4xcRrXpOi2MxRI2bJNcVCpNQZiqYy2TQFYgBt4on5bTDSw95vyOkgHqI%7EExtInfo24S_eFPZ-q3aI4rQpB83xQ%3A20250510113236%2C120574%2C139.227.17.230%2C20250510113236%2C20000035000000051319536975687680%2C120574%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C466911348%2CEND&VIP=null
@@ -80,7 +80,7 @@ http://stream.cammonitorplus.net/1752/index.m3u8
 #EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-name="FOX 4K" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="世界杯 2026",FOX 4K
 http://oacost.vivotv.vip/VillaCanariaLuna/d9nxo3cgd4/2075520
 
-#EXTINF:-1 tvg-id="WNYW-DT.us_locals1" tvg-name="FOX - HLG" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="世界杯 2026",FOX - HLG
+#EXTINF:-1 tvg-id="WNYW-DT.us_locals1" tvg-name="FOX 4K HLG" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="世界杯 2026",FOX - HLG
 https://iptv.852851.xyz/ch/e566d3de7a5e26d86764d7bb5afab900/master.m3u8
 
 #EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FS1 01" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="世界杯 2026",FS1 01
