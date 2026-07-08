@@ -25,14 +25,8 @@ http://10.223.3.189/PLTV/88888888/224/3221226079/478278185.smil/index.m3u8?fmt=t
 http://10.223.3.189/PLTV/88888888/224/3221226081/478282642.smil/index.m3u8?fmt=ts2hls&rrsip=10.223.5.36&zoneoffset=480&servicetype=2&icpid=shlt&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7E24igF6tH0_vi2PS6iRoZJQ%7EGBgYt2G4g3mp1H7Khhun9o6Zuj3ZkcZIB_HquE1b4VEarRFWx1w4xcRrXpOi2MxRI2bJNcVCpNQZiqYy2TQFYgBt4on5bTDSw95vyOkgHqI%7EExtInfo24S_eFPZ-q3aI4rQpB83xQ%3A20250510113236%2C120574%2C139.227.17.230%2C20250510113236%2CUmai%3ACHAN%2F6000134%40BESTV.SMG.SMG%2C120574%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C478282642%2CEND&VIP=null
 #EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-name="FOX 4K" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="世界杯 2026",FOX 4K
 https://idabest.danng.me/live/stream-d316229c-0661-48dc-98ee-0b76b30a3151/index.m3u8?u=gar&p=e0744c4f36a51868827d50f338da6b60a421e7ea12778cce6c0c06c0e9afa4e5
-#EXTINF:-1 tvg-id="" tvg-name="FOX 4K (Not 24/7) 02" tvg-logo="" group-title="世界杯 2026",FOX 4K (Not 24/7) 02
-http://atlanticflixtv.online/1552952/97L6A58/1436344
 #EXTINF:-1 tvg-id="WNYW-DT.us_locals1" tvg-name="FOX 01" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="世界杯 2026",FOX 01
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/109548
-#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FS1 4K" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="世界杯 2026",FS1 4K
-http://atlanticflixtv.online/1552952/97L6A58/1436346
-#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FS1 01" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="世界杯 2026",FS1 01
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120267
 #EXTINF:-1 tvg-id="TSN.4K.ca2" tvg-name="TSN 4K CA Test" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4k-ca.png?raw=true" group-title="世界杯 2026",TSN 4K CA Test
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/119333
 #EXTINF:-1 tvg-id="TSN.4K.ca2" tvg-name="TSN 4K CA" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4k-ca.png?raw=true" group-title="世界杯 2026",TSN 4K CA
@@ -46,11 +40,9 @@ http://89.187.179.148:826/anto.j/c9yJDcXyPe/120268
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 4K FR" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/france/m6-fr.png?raw=true" group-title="世界杯 2026",M6 4K FR
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/120338
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 FR" tvg-logo="" group-title="世界杯 2026",beIN SPORTS 1 FR
-http://redfoxx.vip/FG803300F12D2/ncWUsGr/54614
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/128979
 #EXTINF:-1 tvg-id="FUSSBALL.TV.1.de" tvg-name="Fussball TV 1 4K DE" tvg-logo="https://gh-proxy.org/https://github.com/zhanlala/IPTV-/blob/Jsnzkpg/Magenta_TV_Logo_2024.svg.png" group-title="世界杯 2026",Fussball TV 1 4K DE
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/120339
-#EXTINF:-1 tvg-id="FUSSBALL.TV.2.de" tvg-name="Fussball TV 2 4K DE" tvg-logo="https://gh-proxy.org/https://github.com/zhanlala/IPTV-/blob/Jsnzkpg/Magenta_TV_Logo_2024.svg.png" group-title="世界杯 2026",Fussball TV 2 4K DE
-http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/543140
 #EXTINF:-1 tvg-id="" tvg-name="DAZN Mundial ES" tvg-logo="" group-title="世界杯 2026",DAZN Mundial ES
 http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/158460
 #EXTINF:-1 tvg-id="" tvg-name="NOW Sports 616 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch616_160_115" group-title="世界杯 2026",NOW Sports 616 4K
@@ -58,7 +50,7 @@ http://89.187.179.148:826/anto.j/c9yJDcXyPe/120336
 #EXTINF:-1 tvg-id="" tvg-name="NHK BSP4K JP" tvg-logo="" group-title="世界杯 2026",NHK BSP4K JP
 https://xe.k-20.xyz/nhk
 #EXTINF:-1 tvg-id="" tvg-name="Apple TV F1 4K (Not 24/7)" tvg-logo="" group-title="F1",Apple TV F1 4K (Not 24/7)
-https://idabest.danng.me/live/stream-e3f719b4-9946-4d2a-9c8b-483f0063cb34/index.m3u8?u=gar&p=e0744c4f36a51868827d50f338da6b60a421e7ea12778cce6c0c06c0e9afa4e5
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/119317
 #EXTINF:-1 tvg-id="" tvg-name="F1 TV (Not 24/7)" tvg-logo="" group-title="F1",F1 TV (Not 24/7)
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/110796
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event 4K UK" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-main-event-uhd-uk.png?raw=true" group-title="F1",Sky Sports Main Event 4K UK
@@ -69,8 +61,6 @@ http://89.187.179.148:826/anto.j/c9yJDcXyPe/119326
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/98777
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 UK" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-uk.png?raw=true" group-title="F1",Sky Sports F1 UK
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/98783
-#EXTINF:-1 tvg-id="Canal+.Sport.fr" tvg-name="CANAL+ Sport FR" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/france/canal-plus-sport-fr.png?raw=true" group-title="F1",CANAL+ Sport FR
-http://8kkng.life/Cliyan30/IVKacV8lzSA8rsB/6421
 #EXTINF:-1 tvg-id="Sky.Sport.Top.Event.de" tvg-name="Sky Sport Top Event DE" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-top-event-de.png?raw=true" group-title="F1",Sky Sport Top Event DE
 http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/310095
 #EXTINF:-1 tvg-id="Sky.Sport.F1.de" tvg-name="Sky Sport F1 DE" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-f1-de.png?raw=true" group-title="F1",Sky Sport F1 DE
@@ -518,53 +508,53 @@ http://89.187.179.148:826/anto.j/c9yJDcXyPe/98771
 #EXTINF:-1 tvg-id="Premier.Sports.2.HD.uk" tvg-name="Premier Sports 2 UK" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/premier-sports-2-uk.png?raw=true" group-title="体育 - 欧洲",Premier Sports 2 UK
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/98770
 #EXTINF:-1 tvg-id="beIN.SPORTS.1.fr" tvg-name="beIN Sports 1 FR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/BeINSports1.svg/revision/latest?cb=20220419110315" group-title="体育 - 欧洲",beIN Sports 1 FR
-http://panel.pro2box.cc/456876/bpMnYZA/14160
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/128979
 #EXTINF:-1 tvg-id="beIN.SPORTS.2.fr" tvg-name="beIN Sports 2 FR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Bein_sports2_2017.svg/revision/latest?cb=20220419110806" group-title="体育 - 欧洲",beIN Sports 2 FR
 http://panel.pro2box.cc/456876/bpMnYZA/14153
 #EXTINF:-1 tvg-id="beIN.SPORTS.3.fr" tvg-name="beIN Sports 3 FR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Bein_Sports_3.svg/revision/latest?cb=20220419111150" group-title="体育 - 欧洲",beIN Sports 3 FR
 http://panel.pro2box.cc/456876/bpMnYZA/14152
 #EXTINF:-1 tvg-id="Canal+.Sport.fr" tvg-name="CANAL+ Sport FR" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/france/canal-plus-sport-fr.png?raw=true" group-title="体育 - 欧洲",CANAL+ Sport FR
-http://8kkng.life/Cliyan30/IVKacV8lzSA8rsB/6421
+http://panel.pro2box.cc/456876/bpMnYZA/14156
 #EXTINF:-1 tvg-id="Canal+.Sport.360.fr" tvg-name="CANAL+ Sport 360 FR" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/france/canal-plus-sport-360-fr.png?raw=true" group-title="体育 - 欧洲",CANAL+ Sport 360 FR
 http://panel.pro2box.cc/456876/bpMnYZA/180947
 #EXTINF:-1 tvg-id="Canal+.Foot.fr" tvg-name="CANAL+ Foot FR" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/france/canal-plus-foot-fr.png?raw=true" group-title="体育 - 欧洲",CANAL+ Foot FR
 http://panel.pro2box.cc/456876/bpMnYZA/216660
 #EXTINF:-1 tvg-id="Eurosport.1.fr" tvg-name="Eurosport 1 FR" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/france/eurosport-1-fr.png?raw=true" group-title="体育 - 欧洲",Eurosport 1 FR
-http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/10016
+http://panel.pro2box.cc/456876/bpMnYZA/13742
 #EXTINF:-1 tvg-id="Eurosport.2.fr" tvg-name="Eurosport 2 FR" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/france/eurosport-2-fr.png?raw=true" group-title="体育 - 欧洲",Eurosport 2 FR
 http://panel.pro2box.cc/456876/bpMnYZA/13741
 #EXTINF:-1 tvg-id="DAZN.1.de" tvg-name="DAZN 1 DE" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/belgium/dazn-1-be.png?raw=true" group-title="体育 - 欧洲",DAZN 1 DE
-http://nrvmobil.com:2095/kadir8502/8YmCgLty8yeh/7633
+http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/129973
 #EXTINF:-1 tvg-id="DAZN.2.de" tvg-name="DAZN 2 DE" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/belgium/dazn-2-be.png?raw=true" group-title="体育 - 欧洲",DAZN 2 DE
-http://nrvmobil.com:2095/kadir8502/8YmCgLty8yeh/71472
+http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/130156
 #EXTINF:-1 tvg-id="Sky.Sport.News.de" tvg-name="Sky Sport News DE" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-news-de.png?raw=true" group-title="体育 - 欧洲",Sky Sport News DE
-http://nrvmobil.com:2095/kadir8502/8YmCgLty8yeh/165039
+http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/310089
 #EXTINF:-1 tvg-id="Sky.Sport.Top.Event.de" tvg-name="Sky Sport Top Event DE" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-top-event-de.png?raw=true" group-title="体育 - 欧洲",Sky Sport Top Event DE
 http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/310095
 #EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.de" tvg-name="Sky Sport Bundesliga DE" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-de.png?raw=true" group-title="体育 - 欧洲",Sky Sport Bundesliga DE
-http://redfoxx.vip/FG803300F12D2/ncWUsGr/608919
+http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/122092
 #EXTINF:-1 tvg-id="Sky.Sport.F1.de" tvg-name="Sky Sport F1 DE" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-f1-de.png?raw=true" group-title="体育 - 欧洲",Sky Sport F1 DE
-http://nrvmobil.com:2095/kadir8502/8YmCgLty8yeh/160256
+http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/310083
 #EXTINF:-1 tvg-id="Sky.Sport.Premier.League.de" tvg-name="Sky Sport Premier League DE" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-premier-league-de.png?raw=true" group-title="体育 - 欧洲",Sky Sport Premier League DE
-http://panel.pro2box.cc/456876/bpMnYZA/243798
+http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/310091
 #EXTINF:-1 tvg-id="Sky.Sport.Mix.de" tvg-name="Sky Sport Mix DE" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-mix-de.png?raw=true" group-title="体育 - 欧洲",Sky Sport Mix DE
 http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/310087
 #EXTINF:-1 tvg-id="Sky.Sport.Tennis.de" tvg-name="Sky Sport Tennis DE" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-tennis-de.png?raw=true" group-title="体育 - 欧洲",Sky Sport Tennis DE
 http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/310093
 #EXTINF:-1 tvg-id="Sky.Sport.Golf.de" tvg-name="Sky Sport Golf DE" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-golf-de.png?raw=true" group-title="体育 - 欧洲",Sky Sport Golf DE
-http://nrvmobil.com:2095/kadir8502/8YmCgLty8yeh/115388
+http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/310085
 #EXTINF:-1 tvg-id="Sky.Sport.Austria.1.HD.de" tvg-name="Sky Sport Austria 1 DE" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-austria-1-de.png?raw=true" group-title="体育 - 欧洲",Sky Sport Austria 1 DE
 http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/136088
 #EXTINF:-1 tvg-id="Movistar.Deportes.es" tvg-name="Deportes por M+ ES" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/spain/deportes-por-movistar-plus-es.png?raw=true" group-title="体育 - 欧洲",Deportes por M+ ES
-http://10k.lucastv.pro/2c99755ae255/gJnMAT2/14067
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/286
 #EXTINF:-1 tvg-id="M+.Golf.es" tvg-name="Golf por M+ ES" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/spain/golf-por-movistar-plus-es.png?raw=true" group-title="体育 - 欧洲",Golf por M+ ES
-http://10k.lucastv.pro/2c99755ae255/gJnMAT2/14056
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/285
 #EXTINF:-1 tvg-id="M+.LALIGA.TV.es" tvg-name="LaLiga por M+ ES" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/spain/laliga-tv-por-movistar-plus-es.png?raw=true" group-title="体育 - 欧洲",LaLiga por M+ ES
-http://10k.lucastv.pro/2c99755ae255/gJnMAT2/14080
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/254
 #EXTINF:-1 tvg-id="M+.Liga.de.Campeones.es" tvg-name="Liga de Campeones por M+ ES" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/spain/liga-de-campeones-por-movistar-plus-es.png?raw=true" group-title="体育 - 欧洲",Liga de Campeones por M+ ES
-http://10k.lucastv.pro/2c99755ae255/gJnMAT2/45416
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/265
 #EXTINF:-1 tvg-id="M+.Vamos.es" tvg-name="Vamos por M+ ES" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/spain/vamos-por-movistar-plus-es.png?raw=true" group-title="体育 - 欧洲",Vamos por M+ ES
-http://10k.lucastv.pro/2c99755ae255/gJnMAT2/155886
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/632
 #EXTINF:-1 tvg-id="Sky.Sport.24.it" tvg-name="Sky Sport 24 IT" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-24-it.png?raw=true" group-title="体育 - 欧洲",Sky Sport 24 IT
 http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/136475
 #EXTINF:-1 tvg-id="Sky.Sport.Uno.it" tvg-name="Sky Sport Uno IT" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-uno-it.png?raw=true" group-title="体育 - 欧洲",Sky Sport Uno IT
@@ -586,45 +576,43 @@ http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/136488
 #EXTINF:-1 tvg-id="Sky.Sport.Golf.it" tvg-name="Sky Sport Golf IT" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-golf-it.png?raw=true" group-title="体育 - 欧洲",Sky Sport Golf IT
 http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/136505
 #EXTINF:-1 tvg-id="Sky.Sport.Legend.it" tvg-name="Sky Sport Legend IT" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-legend-it.png?raw=true" group-title="体育 - 欧洲",Sky Sport Legend IT
-http://cf.business-cdn-8k.com/55a79c88d56e/b0210ee741/1492147
+http://lisabontv.pro:8080/tjPYdQpZ/kYXxX5x8yKgd/841990
 #EXTINF:-1 tvg-id="Sky.Sport.Mix.it" tvg-name="Sky Sport Mix IT" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-mix-it.png?raw=true" group-title="体育 - 欧洲",Sky Sport Mix IT
-http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/302169
-#EXTINF:-1 tvg-id="FoxSportsNews.au" tvg-name="Fox Sports News AU" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-news-au.png?raw=true" group-title="体育 - 大洋洲",Fox Sports News AU
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/144731
+http://lisabontv.pro:8080/tjPYdQpZ/kYXxX5x8yKgd/841991
 #EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Sports 501 AU" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-cricket-501-hd-au.png?raw=true" group-title="体育 - 大洋洲",Fox Sports 501 AU
-http://rocketfx.uk:8080/henry/henry/129252
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/110881
 #EXTINF:-1 tvg-id="FoxLeague.au" tvg-name="Fox Sports 502 AU" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-league-502-hd-au.png?raw=true" group-title="体育 - 大洋洲",Fox Sports 502 AU
-http://rocketfx.uk:8080/henry/henry/129253
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/110882
 #EXTINF:-1 tvg-id="FoxSports503.au" tvg-name="Fox Sports 503 AU" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-503-hd-au.png?raw=true" group-title="体育 - 大洋洲",Fox Sports 503 AU
-http://rocketfx.uk:8080/henry/henry/129248
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/110883
 #EXTINF:-1 tvg-id="FoxFooty.au" tvg-name="Fox Sports 504 AU" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-footy-504-hd-au.png?raw=true" group-title="体育 - 大洋洲",Fox Sports 504 AU
-http://rocketfx.uk:8080/henry/henry/129249
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/110884
 #EXTINF:-1 tvg-id="FoxSports505.au" tvg-name="Fox Sports 505 AU" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-505-hd-au.png?raw=true" group-title="体育 - 大洋洲",Fox Sports 505 AU
-http://rocketfx.uk:8080/henry/henry/129251
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/110885
 #EXTINF:-1 tvg-id="FoxSports506.au" tvg-name="Fox Sports 506 AU" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-506-hd-au.png?raw=true" group-title="体育 - 大洋洲",Fox Sports 506 AU
-http://rocketfx.uk:8080/henry/henry/156055
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/110886
 #EXTINF:-1 tvg-id="FoxSportsMore.au" tvg-name="Fox Sports 507 AU" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-507-hd-au.png?raw=true" group-title="体育 - 大洋洲",Fox Sports 507 AU
-http://rocketfx.uk:8080/henry/henry/129254
-#EXTINF:-1 tvg-id="Sky.Sport.Select.nz" tvg-name="SKY Sport Select NZ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Sky_Sport_Select_NZ.svg/revision/latest?cb=20230830144108" group-title="体育 - 大洋洲",SKY Sport Select NZ
-http://rocketfx.uk:8080/henry/henry/142808
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/110887
 #EXTINF:-1 tvg-id="Sky.Sport.1.nz" tvg-name="SKY Sport 1 NZ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Sky_Sport_1_NZ.svg/revision/latest?cb=20230830144011" group-title="体育 - 大洋洲",SKY Sport 1 NZ
-http://rocketfx.uk:8080/henry/henry/142799
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/118585
 #EXTINF:-1 tvg-id="Sky.Sport.2.nz" tvg-name="SKY Sport 2 NZ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Sky_Sport_2_NZ.svg/revision/latest?cb=20230830144002" group-title="体育 - 大洋洲",SKY Sport 2 NZ
-http://rocketfx.uk:8080/henry/henry/142800
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/118586
 #EXTINF:-1 tvg-id="Sky.Sport.3.nz" tvg-name="SKY Sport 3 NZ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Sky_Sport_3_NZ.svg/revision/latest?cb=20230830143951" group-title="体育 - 大洋洲",SKY Sport 3 NZ
-http://rocketfx.uk:8080/henry/henry/142801
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/118587
 #EXTINF:-1 tvg-id="Sky.Sport.4.nz" tvg-name="SKY Sport 4 NZ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Sky_Sport_4_NZ.svg/revision/latest?cb=20230830143941" group-title="体育 - 大洋洲",SKY Sport 4 NZ
-http://rocketfx.uk:8080/henry/henry/142802
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/118588
 #EXTINF:-1 tvg-id="Sky.Sport.5.nz" tvg-name="SKY Sport 5 NZ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Sky_Sport_5_NZ.svg/revision/latest?cb=20230830143710" group-title="体育 - 大洋洲",SKY Sport 5 NZ
-http://rocketfx.uk:8080/henry/henry/142803
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/118589
 #EXTINF:-1 tvg-id="Sky.Sport.6.nz" tvg-name="SKY Sport 6 NZ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/Sky_Sport_6_NZ.svg/revision/latest?cb=20230830143701" group-title="体育 - 大洋洲",SKY Sport 6 NZ
-http://rocketfx.uk:8080/henry/henry/142804
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/118590
 #EXTINF:-1 tvg-id="Sky.Sport.7.nz" tvg-name="SKY Sport 7 NZ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Sky_Sport_7_NZ.svg/revision/latest?cb=20230830143651" group-title="体育 - 大洋洲",SKY Sport 7 NZ
-http://rocketfx.uk:8080/henry/henry/142805
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/118591
 #EXTINF:-1 tvg-id="Sky.Sport.Premier.League.nz" tvg-name="SKY Sport Premier League NZ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Sky_Sport_Premier_League_NZ.svg/revision/latest?cb=20220726192218" group-title="体育 - 大洋洲",SKY Sport Premier League NZ
-http://rocketfx.uk:8080/henry/henry/142806
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/118592
 #EXTINF:-1 tvg-id="Sky.Sport.9.nz" tvg-name="SKY Sport 9 NZ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Sky_Sport_9_NZ.svg/revision/latest?cb=20230830143632" group-title="体育 - 大洋洲",SKY Sport 9 NZ
-http://rocketfx.uk:8080/henry/henry/142807
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/118593
+#EXTINF:-1 tvg-id="Sky.Sport.Select.nz" tvg-name="SKY Sport Select NZ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Sky_Sport_Select_NZ.svg/revision/latest?cb=20230830144108" group-title="体育 - 大洋洲",SKY Sport Select NZ
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/118594
 #EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="https://garyshare.sharewithyou.dpdns.org/logos/HBO.svg" group-title="精选 - 北美",HBO
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/1265
 #EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-name="HBO Hits" tvg-logo="https://garyshare.sharewithyou.dpdns.org/logos/HBO_Hits.svg" group-title="精选 - 北美",HBO Hits
@@ -744,7 +732,7 @@ http://10k.lucastv.pro/2c99755ae255/gJnMAT2/340294
 #EXTINF:-1 tvg-id="Super.Écran.4.HD.ca2" tvg-name="Super Écran 4 CA" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/canada/super-ecran-4-ca.png?raw=true" group-title="精选 - 北美",Super Écran 4 CA
 http://10k.lucastv.pro/2c99755ae255/gJnMAT2/340293
 #EXTINF:-1 tvg-id="CinéPop.HD.ca2" tvg-name="CinéPop CA" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/canada/cine-pop-ca.png?raw=true" group-title="精选 - 北美",CinéPop CA
-http://atlanticflixtv.online/1552952/97L6A58/106556
+http://ahostingportal.com:8000/colesteven25yahoocom/1554061255/2713
 #EXTINF:-1 tvg-id="SkyPremiereHD.uk" tvg-name="Sky Cinema Premiere UK" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-premiere-uk.png?raw=true" group-title="精选 - 欧洲",Sky Cinema Premiere UK
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/98793
 #EXTINF:-1 tvg-id="Sky.Cinema.Select.uk" tvg-name="Sky Cinema Select UK" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-select-uk.png?raw=true" group-title="精选 - 欧洲",Sky Cinema Select UK
@@ -798,27 +786,27 @@ http://luxus-iptv.xyz:8000/HakanKara01/XGuSAvs5Kc/8605
 #EXTINF:-1 tvg-id="Sky.Cinema.Classics.HD.de" tvg-name="Sky Cinema Classics DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Cinema_Classics_2020.svg" group-title="精选 - 欧洲",Sky Cinema Classics DE
 http://luxus-iptv.xyz:8000/HakanKara01/XGuSAvs5Kc/149158
 #EXTINF:-1 tvg-id="Movistar.Plus.es" tvg-name="Movistar Plus+ ES" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/spain/movistar-plus-es.png?raw=true" group-title="精选 - 欧洲",Movistar Plus+ ES
-http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/346085
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/87109
 #EXTINF:-1 tvg-id="M+.Acción.es" tvg-name="Acción por M+ ES" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/spain/accion-por-movistar-plus-es.png?raw=true" group-title="精选 - 欧洲",Acción por M+ ES
-http://atlanticflixtv.online/1552952/97L6A58/591070
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/656
 #EXTINF:-1 tvg-id="M+.Cine.Español.es" tvg-name="Cine Español por M+ ES" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/spain/cine-espanol-por-movistar-plus-es.png?raw=true" group-title="精选 - 欧洲",Cine Español por M+ ES
-http://atlanticflixtv.online/1552952/97L6A58/445026
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/658
 #EXTINF:-1 tvg-id="M+.Clásicos.es" tvg-name="Clásicos por M+ ES" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/spain/clasicos-por-movistar-plus-es.png?raw=true" group-title="精选 - 欧洲",Clásicos por M+ ES
-http://bazoka.co/269378d/3630806/131624
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/659
 #EXTINF:-1 tvg-id="M+.Comedia.es" tvg-name="Comedia por M+ ES" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/spain/comedia-por-movistar-plus-es.png?raw=true" group-title="精选 - 欧洲",Comedia por M+ ES
-http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/62957
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/657
 #EXTINF:-1 tvg-id="M+.Drama.es" tvg-name="Drama por M+ ES" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/spain/drama-por-movistar-plus-es.png?raw=true" group-title="精选 - 欧洲",Drama por M+ ES
-http://redfoxx.vip/FG803300F12D2/ncWUsGr/663
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/660
 #EXTINF:-1 tvg-id="M+.Documentales.es" tvg-name="Documentales por M+ ES" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/spain/documentales-por-movistar-plus-es.png?raw=true" group-title="精选 - 欧洲",Documentales por M+ ES
-http://redfoxx.vip/FG803300F12D2/ncWUsGr/462408
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/87108
 #EXTINF:-1 tvg-id="M+.Estrenos.es" tvg-name="Estrenos por M+ ES" tvg-logo="https://garyshare.sharewithyou.dpdns.org/logos/Estrenos_por_M%2B.png" group-title="精选 - 欧洲",Estrenos por M+ ES
-http://luxus-iptv.xyz:8000/HakanKara01/XGuSAvs5Kc/169490
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/132309
 #EXTINF:-1 tvg-id="M+.Hits.es" tvg-name="Hits por M+ ES" tvg-logo="https://garyshare.sharewithyou.dpdns.org/logos/Hits_por_M%2B.png" group-title="精选 - 欧洲",Hits por M+ ES
-http://redfoxx.vip/FG803300F12D2/ncWUsGr/47458
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/663
 #EXTINF:-1 tvg-id="M+.Indie.es" tvg-name="Indie por M+ ES" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/spain/indie-por-movistar-plus-es.png?raw=true" group-title="精选 - 欧洲",Indie por M+ ES
-http://redfoxx.vip/FG803300F12D2/ncWUsGr/462687
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/87106
 #EXTINF:-1 tvg-id="M+.Originales.es" tvg-name="Originales por M+ ES" tvg-logo="https://gh-proxy.org/https://github.com/tv-logo/tv-logos/blob/main/countries/spain/originales-por-movistar-plus-es.png?raw=true" group-title="精选 - 欧洲",Originales por M+ ES
-http://redfoxx.vip/FG803300F12D2/ncWUsGr/462682
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/87107
 #EXTINF:-1 tvg-id="Sky.Cinema.Uno.it" tvg-name="Sky Cinema Uno IT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Sky_Cinema_Uno_new.svg" group-title="精选 - 欧洲",Sky Cinema Uno IT
 http://atlanticflixtv.online/1472870781733517/7F0A390BF521/68456
 #EXTINF:-1 tvg-id="Sky.Cinema.Due.it" tvg-name="Sky Cinema Stories IT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Sky_Cinema_Stories.svg" group-title="精选 - 欧洲",Sky Cinema Stories IT
